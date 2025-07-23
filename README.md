@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AntqAdarsh
+- 👋 Hi, I’m Adarsh
 - 👀 I’m interested in Developing New Tech.
 - 🌱 I’m currently learning Web Development.
 
